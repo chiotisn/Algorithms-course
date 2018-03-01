@@ -1,0 +1,1 @@
+Task assigned by Prof. Panagiotis Louridas. Assignment can be found [here](https://htmlpreview.github.io/?https://github.com/dmst-algorithms-course/assignment-2017-2/blob/master/assignment_2017_2.html).
